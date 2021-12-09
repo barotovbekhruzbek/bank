@@ -1,0 +1,243 @@
+
+.dropdown{
+    font-family:'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #000000;
+    float: left;
+    padding: 0;
+    margin: 35px 36px 34px 0;
+}
+.dropdown>button{
+    font-family:'Inter';
+    background: none;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    border: none;
+    background: none;
+}
+.dropdown>ul{
+    background: none;
+    border: 1px dashed rgb(0, 0, 0);
+    border-radius: 4px;
+    margin-top: 20px;
+    margin-left: -55px;
+    padding: 0;
+   
+}
+.dropdown-toggle:hover{
+    background: none;
+    border: none;
+}
+.dropdown-toggle::after{
+    color: rgb(0, 0, 0);
+    margin-bottom: -2px;
+    font-size: 17px;
+    margin-left: 7px;
+}
+.dropdown-menu>li>a{
+   
+    background: rgba(85, 85, 85, 0.596);
+    color: rgb(0, 14, 87);
+    border-radius: 2px;
+
+}
+.dropdown-menu>li>a:hover{
+    background: rgba(255, 230, 3, 0.103);
+    transition: .6s;
+    border-radius: 4px;
+}
+.blue06{
+    border: none;
+    width: 209px;
+    height: 48px;
+    background: rgb(101, 215, 230);
+    border-radius: 4px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;    
+    color: #FFFFFF;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 12px 32px;
+}
+.blue06:hover{
+  background:  rgb(101, 215, 230,0.8);
+}
+.header3{
+   width: 100%;
+   margin: 0 auto;
+   height: 360px; 
+   border-top: 1px solid #E0E0E0;
+   border-bottom: 1px solid #E0E0E0;
+}
+.match{
+   
+    margin-top: -230px;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 39px;
+    color: #FFFFFF;
+    margin: 16px 0px;
+}
+.match1{
+    margin-top: -172px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 19px;
+    color: #ffffffc0;
+    margin: 16px 0px;
+}
+
+.ramka1111{
+    width: 340px;
+    height:565px;
+    background: #FFFFFF;
+    border: 1px solid #E0E0E0;
+    box-sizing: border-box;
+    border-radius: 4px;
+}
+.ramka{
+    width: 278px;
+    margin: 30px;
+}
+.ramka>h4{
+    text-align: center;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 32px;
+    color: #05278D;
+    margin: 8px 0;
+}
+.block-txt{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 15px;
+    line-height: 24px;
+    text-align: center;
+    color: #001D42;
+    margin: 8px 0px;
+}
+.block-txt1{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    color: #BDBDBD;
+    margin: 10px 0px;
+}
+.erik>h2{
+    padding: 10px 0;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 24px;
+    line-height: 32px;
+    color: #001D42;
+}
+.erik2{
+    padding-left: 24px;
+    Width: 342px; 
+    height:176px;
+    border: 1px solid #E0E0E0;
+    border-radius: 4px;
+}
+.erik2>h6{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    color: #05278D;
+    margin: 16px 0px;
+}
+.erik2>p{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 24px;
+    color: #05278D;
+    opacity: 0.56;
+    margin: 16px 0px;
+}
+.frfrro{
+    position: absolute;
+}
+.frfrro>img{
+    position: absolute;
+    margin-top: 24px;
+}
+.zzll{
+    padding-top: 60px;
+    padding-bottom: 100px;
+}
+.col-md-9>h1{
+    font-style: normal;
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 40px;
+    color: #001D42;
+    margin-bottom: 0px;
+}
+.fazo{
+    margin-top: 20px;
+}
+.fazo-txt{
+    margin: 16px 0;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 28px;
+    color: #001D42;
+}
+.boglanish>h4{
+    float: left;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #05278D;
+}
+.boglanish>.elps{
+    width: 32px;
+    height: 32px;
+    float: left;
+    background: rgba(24, 150, 252, 0.08);
+    border-radius: 8px;
+    margin: 0px 10px;
+}
+.elps>a>img{
+    display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 8px 10px 8px 8px;
+}
+.elps>a>img:hover{
+    width: 35px;
+    height: 35px;
+}
+.boglanish>p{
+    float: right;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    line-height: 24px;
+    color: #05278D;
+   
+}
+
+.boglanish>p>img{
+    margin-right: 10px;
+}
+.boglanish{
+    padding-top: 80px;
+}
